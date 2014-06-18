@@ -1,0 +1,24 @@
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes.dex : \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$1.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$BasicListener.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$CreateBannerViewRunnable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$CreateInterstitialViewRunnable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$DestroyBannerViewRunnable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$FlurryRunnable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$RequestAdBasicRunnable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$RequestAdRunnable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$RequestInterstitialAdRunnable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry$ShowAdRunnable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/cordova/plugin/Flurry.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/testflurry/BuildConfig.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/testflurry/R$attr.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/testflurry/R$drawable.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/testflurry/R$integer.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/testflurry/R$string.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/testflurry/R$xml.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/testflurry/R.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/classes/com/rjfun/testflurry/TestFlurry.class \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/dexedLibs/classes-c864c263468ac0d63e2daf6b681fd51d.jar \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/dexedLibs/google-play-services-9e419432d83dcc4104355367d77c25fc.jar \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/dexedLibs/FlurryAnalytics-4.0.0-cfdf95715017e72244008945ff02fef3.jar \
+/Users/liming/workspace/cordova-apps/testflurry/platforms/android/ant-build/dexedLibs/FlurryAds-4.0.0-80dd0cd48280825c22bf8a90254337a8.jar \
