@@ -1,5 +1,6 @@
 # ignore
 # www.default
+platforms/android/local.properties
 platforms/android/gen
 platforms/android/bin
 platforms/android/assets/www
